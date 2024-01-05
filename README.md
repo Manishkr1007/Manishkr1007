@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manish kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="center" alt="coding" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" witdh="300px" height="200px"> 
+<p align="center "><img  alt="coding" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" witdh="300px" height="200px"/> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manishkr1007&label=Profile%20views&color=0e75b6&style=flat" alt="manishkr1007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishkr1007" alt="manishkr1007" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://manishkr1007.github.io/MyPortfolio/](https://manishkr1007.github.io/MyPortfolio/)
 
